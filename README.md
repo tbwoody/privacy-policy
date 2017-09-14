@@ -1,1 +1,3 @@
-# privacy-policy
+# Terms of Service
+# Privacy Policy
+# Open source license
